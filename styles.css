@@ -6,6 +6,11 @@
 	align-items:center;
 	justify-content:center;
 }
+.item{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
 .item-1{
 	width:100px;
 	height:100px;
